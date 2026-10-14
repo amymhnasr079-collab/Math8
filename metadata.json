@@ -1,0 +1,6 @@
+{
+  "name": "لوحة مطعم الكسور - الصف الثامن",
+  "description": "لوحة تعليمية تفاعلية واحترافية لتمهيد درس جمع وطرح الكسور لطالبات الصف الثامن وفق منهج سلطنة عُمان",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
